@@ -79,3 +79,9 @@ Builds
 # Unreal MCP bridge (local editor tooling, no debe subirse)
 **/Plugins/UnrealMCP/
 unreal_mcp*.log
+
+# Scripts auxiliares locales y archivos de MCP
+/Tools/
+.mcp.json
+.mcp/
+**/*mcp*.log
