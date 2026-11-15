@@ -75,3 +75,7 @@ Builds
 **/Config/SteamVRBindings
 **/Platforms/HoloLens/Config/HoloLensEngine.ini
 .vsconfig
+
+# Unreal MCP bridge (local editor tooling, no debe subirse)
+**/Plugins/UnrealMCP/
+unreal_mcp*.log
